@@ -71,3 +71,7 @@
 ## 四、启动挖矿程序
 
 右键->以管理员运行 `start_xminer.bat`
+
+## 五、帮助
+
+矿池地址: https://xinghe.app
